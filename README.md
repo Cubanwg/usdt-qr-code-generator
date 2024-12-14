@@ -39,7 +39,8 @@ USDT QR Code Generator is a free online tool that quickly generates QR codes for
 https://github.com/moonbay42/usdt-qr-code-generator.git
 ```
 
-```
+```Prerequisites
+
 cd usdt-qr-generator
 ```
 
